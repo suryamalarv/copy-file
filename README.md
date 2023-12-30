@@ -1,4 +1,4 @@
-# yCopy-file
+# Copy-file
 # AIM:
 To write a python program for copying the contents from one file to another file.
 
@@ -28,8 +28,8 @@ End the program
 ```
 python
 To write a program for copying the contents from one file to another file.
-Developed by:GAYATHRI.K 
-RegisterNumber:23013439
+Developed by:SURYAMALARV
+RegisterNumber:23013656
 
 with open("f45.txt","r") as fp:
     x = fp.read()
